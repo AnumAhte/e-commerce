@@ -45,10 +45,10 @@ export default function Futured() {
               {/* Text */}
               <div className="absolute left-4 bottom-4 text-white">
                 <h1 className="text-lg sm:text-xl md:text-2xl font-semibold">
-                  Women's Collections
+                  Womens Collections
                 </h1>
                 <p className="text-sm sm:text-base mt-2">
-                  Featured women's collections that give you another vibe.
+                  Featured womens collections that give you another vibe.
                 </p>
                 <button className="mt-3 text-sm sm:text-base underline underline-offset-4 hover:font-bold">
                   Shop Now
@@ -56,7 +56,7 @@ export default function Futured() {
               </div>
               {/* Image */}
               <Image
-                src={"/images/Futured/woman-wearing.png"}
+                src={"/images/futured/woman-wearing.png"}
                 width={500}
                 height={300}
                 alt="Women's Collection"

@@ -5,9 +5,10 @@ import {
   faShoppingBag,
   faMoneyBill1Wave,
 } from "@fortawesome/free-solid-svg-icons";
+import { IconProp } from "@fortawesome/fontawesome-svg-core";
 
 type StatBoxProps = {
-  icon: any;
+  icon: IconProp; // Use IconProp instead of any
   value: string;
   description: string;
   bgColor?: string;
