@@ -98,7 +98,7 @@ export default function Futured() {
                 </div>
                 {/* Image */}
                 <Image
-                  src={"/images/Futured/perfume.png"}
+                  src={"/images/futured/perfume.png"}
                   width={200}
                   height={200}
                   alt="Perfume"
